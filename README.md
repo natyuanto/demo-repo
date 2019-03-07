@@ -1,2 +1,3 @@
 # Demo Repo
-###Lab 06 Part 2
+
+Lab 06 Part 2
